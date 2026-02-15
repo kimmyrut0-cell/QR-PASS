@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of QR PASS - Student Violation Tracker",
+  "description": "An ultra-fast, secure, and accurate QR-based student violation tracking system designed for school disciplinary documentation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
